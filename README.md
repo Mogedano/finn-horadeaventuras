@@ -2,9 +2,8 @@ Dibujo con HTML y CSS de mi querido "Finn, El Humano" de la maravillosa serie an
 
 ¿Dibujar no es una forma divertidísima de afianzar y mejorar en el uso de HTML y CSS?
 
+![Finn](https://github.com/Mogedano/finn-horadeaventuras/blob/master/Finn.JPG)
 
+Enlace a la obra de arte: https://mogedano.github.io/finn-horadeaventuras/ .    
 
-
-Enlace a la obra de arte: https://mogedano.github.io/finn-horadeaventuras/
-
-Este dibujo ha sido posible gracias al tutorial: https://devcode.la/tutoriales/finn-html-css/
+Este dibujo ha sido posible gracias al tutorial: https://devcode.la/tutoriales/finn-html-css/ .
